@@ -1,0 +1,9 @@
+C:\Users\devhx\Desktop\wechat\wechat\bin\Debug\wechat.exe
+C:\Users\devhx\Desktop\wechat\wechat\bin\Debug\wechat.pdb
+C:\Users\devhx\Desktop\wechat\wechat\obj\Debug\wechat.csprojAssemblyReference.cache
+C:\Users\devhx\Desktop\wechat\wechat\obj\Debug\wechat.Form1.resources
+C:\Users\devhx\Desktop\wechat\wechat\obj\Debug\wechat.Properties.Resources.resources
+C:\Users\devhx\Desktop\wechat\wechat\obj\Debug\wechat.csproj.GenerateResource.cache
+C:\Users\devhx\Desktop\wechat\wechat\obj\Debug\wechat.csproj.CoreCompileInputs.cache
+C:\Users\devhx\Desktop\wechat\wechat\obj\Debug\wechat.exe
+C:\Users\devhx\Desktop\wechat\wechat\obj\Debug\wechat.pdb
